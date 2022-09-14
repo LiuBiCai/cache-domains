@@ -11,3 +11,4 @@ tmdb.np.dl.playstation.net
 gs-sec.ww.np.dl.playstation.net
 *.ps4.update.sonycoment.loris-e.llnwd.net
 *.ps4.update.playstation.net
+ps4updptl.sa.np.community.playstation.net
